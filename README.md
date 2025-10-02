@@ -22,7 +22,13 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um botânico com experiência em morfometria geométrica e análise de dados. Minha pesquisa é focada no estudo de samambaias, utilizando **R** para análises estatísticas e visualização de dados. Tenho grande interesse em aplicar tecnologia para resolver questões biológicas complexas, transformando imagens e dados brutos em insights científicos.
+Sou um botânico e desenvolvedor R, focado em aplicar métodos computacionais para resolver questões em evolução e sistemática de plantas. Minha pesquisa utiliza morfometria geométrica e outras abordagens multi-ferramentas para estudar a diversidade de samambaias e licófitas.
+
+**Áreas de Interesse:**
+- `[Evolução e Sistemática de Samambaias e Licófitas]`
+- `[Análise de Dados Morfométricos e Moleculares]`
+- `[Desenvolvimento de pipelines em R para Biologia]`
+- `[Visualização de Dados Científicos]`
 
 ---
 
@@ -52,12 +58,13 @@ Ferramentas e tecnologias que utilizo no meu dia a dia de pesquisa e desenvolvim
 
 ### 🚀 Projetos em Destaque
 
-Aqui estão alguns tutoriais e guias que desenvolvi para a comunidade acadêmica.
+Aqui estão alguns projetos que desenvolvi e em que estou trabalhando:
 
-| Projeto | Descrição |
-| :--- | :--- |
-| 📄 **[Tutorial: DiaOutline](https://niksoney.github.io/niksoney/tutoriaispronto/dioutlinepart1.html)** | Um guia passo a passo para extrair contornos de imagens para estudos morfométricos, desde a instalação até a geração de dados. |
-| 📊 **[Tutorial: Análise de Fourier](https://niksoney.github.io/niksoney/tutoriaispronto/outlineanalise.html)** | Como realizar Análise Elíptica de Fourier (EFA) em R, incluindo calibração de harmônicos, PCA e LDA. |
+| Projeto | Descrição | Link |
+| :--- | :--- | :--- |
+| 🌐 **LabEvoFern Website** | Site institucional para o Laboratório de Evolução de Samambaias e Licófitas. | [Acessar](https://labevofern.github.io/sitelab/) |
+| 👤 **Portfólio Pessoal** | Meu site pessoal com informações sobre minha carreira, projetos e tutoriais. | [Acessar](https://niksoney.github.io/bio/index.html#sobre) |
+| 🔬 **Análise FT-NIR** | Repositório com scripts em R para análise de dados de espectroscopia (FT-NIR) em espécies de *Microgramma*. | [Ver no GitHub](https://github.com/niksoney/Nir-Microgramma-FTNIR) |
 
 ---
 
@@ -69,3 +76,8 @@ Aqui estão alguns tutoriais e guias que desenvolvi para a comunidade acadêmica
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=niksoney&layout=compact&langs_count=8&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+<div align="center">
+  <img src="https://github.com/niksoney/niksoney/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</div>
+
