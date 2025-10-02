@@ -6,13 +6,13 @@
     <a href="https://github.com/niksoney?tab=repositories" target="_blank">
       <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-repositórios-2E8B57?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
-    <a href="[SEU-LINK-LATTES-AQUI]" target="_blank">
+    <a href="http://lattes.cnpq.br/3437999134934422" target="_blank">
       <img alt="Lattes" title="Lattes" src="https://img.shields.io/badge/Lattes-000000?style=for-the-badge&logo=ReadMe&logoColor=white"/>
     </a>
-    <a href="[SEU-LINK-LINKEDIN-AQUI]" target="_blank">
+    <a href="https://www.linkedin.com/in/niksoney-azevedo-mendon%C3%A7a-aa0582228/" target="_blank">
       <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="[SEU-LINK-RESEARCHGATE-AQUI]" target="_blank">
+    <a href="https://www.researchgate.net/profile/Niksoney-Mendonca?ev=hdr_xprf" target="_blank">
       <img alt="ResearchGate" title="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
     </a>
   </p>
@@ -96,8 +96,4 @@ Aqui estão alguns projetos que desenvolvi e em que estou trabalhando:
 [![Estatísticas do GitHub de Niksoney](https://github-readme-stats.vercel.app/api?username=niksoney&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=niksoney&layout=compact&langs_count=8&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-
-<div align="center">
-  <img src="https://github.com/niksoney/niksoney/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
