@@ -99,5 +99,5 @@ Aqui estão alguns projetos que desenvolvi e em que estou trabalhando:
 </div>
 
 <div align="center">
-  <img src="https://github.com/niksoney/niksoney/raw/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/niksoney/niksoney/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
