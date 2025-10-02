@@ -1,35 +1,34 @@
 <div align="center">
-  <h1 align="center">Olá, eu sou o Niksoney A. Mendonça 👋</h1>
-  <h3 align="center">Cultivando código para desvendar os segredos da botânica 🌿</h3>
+  <h1 align="center">Niksoney A. Mendonça</h1>
+  <h3 align="center">Botânico | Programador R | Entusiasta de Dados</h3>
+  
+  <p align="center">
+    <a href="https://github.com/niksoney?tab=repositories" target="_blank">
+      <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-repositórios-2E8B57?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="[SEU-LINK-LATTES-AQUI]" target="_blank">
+      <img alt="Lattes" title="Lattes" src="https://img.shields.io/badge/Lattes-000000?style=for-the-badge&logo=ReadMe&logoColor=white"/>
+    </a>
+    <a href="[SEU-LINK-LINKEDIN-AQUI]" target="_blank">
+      <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="[SEU-LINK-RESEARCHGATE-AQUI]" target="_blank">
+      <img alt="ResearchGate" title="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+    </a>
+  </p>
 </div>
 
 ---
 
-### 🔬 Sobre Mim
+### 👨‍💻 Sobre Mim
 
-Sou um botânico apaixonado pela diversidade das plantas, com um foco especial em samambaias. Minha pesquisa explora a morfometria para entender as formas e estruturas do reino vegetal. Transformo dados em descobertas visuais e estatísticas, principalmente com o poder do R.
-
-- 🌱 **Botânico** com foco em morfometria geométrica e análise de contorno.
-- 🍃 Fascinado pelo universo das **samambaias** e licófitas.
-- 💻 Entusiasta de **R**, `tidyverse` e `ggplot2` para análise e visualização de dados.
-- 📈 Transformando imagens em dados com ferramentas como `Momocs` e `DiaOutline`.
+Sou um botânico com experiência em morfometria geométrica e análise de dados. Minha pesquisa é focada no estudo de samambaias, utilizando **R** para análises estatísticas e visualização de dados. Tenho grande interesse em aplicar tecnologia para resolver questões biológicas complexas, transformando imagens e dados brutos em insights científicos.
 
 ---
 
-### 🌳 Meu Jardim Digital
+### 🛠️ Tech Stack
 
-Aqui no GitHub, você encontrará um pouco do meu ecossistema de pesquisa, incluindo tutoriais e projetos que desenvolvi.
-
-| Projeto | Descrição |
-| :--- | :--- |
-| 📄 **[Tutorial: DiaOutline](https://github.com/niksoney/niksoney/blob/main/tutoriaispronto/dioutlinepart1.html)** | Um guia passo a passo para extrair contornos de imagens para estudos morfométricos, desde a instalação até a geração de dados. |
-| 📊 **[Tutorial: Análise de Fourier](https://github.com/niksoney/niksoney/blob/main/tutoriaispronto/outlineanalise.html)** | Como realizar Análise Elíptica de Fourier (EFA) em R, incluindo calibração de harmônicos, PCA e LDA. |
-
----
-
-### 🛠️ Meu Kit de Ferramentas
-
-Estas são as principais ferramentas que uso para cultivar meus projetos:
+Ferramentas e tecnologias que utilizo no meu dia a dia de pesquisa e desenvolvimento:
 
 <p align="left">
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
@@ -51,22 +50,22 @@ Estas são as principais ferramentas que uso para cultivar meus projetos:
 
 ---
 
-### 📫 Conecte-se Comigo
+### 🚀 Projetos em Destaque
 
-Vamos trocar ideias! Você pode me encontrar em outras plataformas:
+Aqui estão alguns tutoriais e guias que desenvolvi para a comunidade acadêmica.
 
-- 🔗 **Lattes:** [Seu-Link-Aqui]
-- 💼 **LinkedIn:** [Seu-Link-Aqui]
-- 🎓 **ResearchGate:** [Seu-Link-Aqui]
+| Projeto | Descrição |
+| :--- | :--- |
+| 📄 **[Tutorial: DiaOutline](https://niksoney.github.io/niksoney/tutoriaispronto/dioutlinepart1.html)** | Um guia passo a passo para extrair contornos de imagens para estudos morfométricos, desde a instalação até a geração de dados. |
+| 📊 **[Tutorial: Análise de Fourier](https://niksoney.github.io/niksoney/tutoriaispronto/outlineanalise.html)** | Como realizar Análise Elíptica de Fourier (EFA) em R, incluindo calibração de harmônicos, PCA e LDA. |
 
 ---
 
+### 📈 Estatísticas do GitHub
+
 <div align="center">
 
-### Estatísticas do Meu Jardim no GitHub
-
-[![Estatísticas do GitHub de Niksoney](https://github-readme-stats.vercel.app/api?username=niksoney&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=niksoney&layout=compact&langs_count=8&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub de Niksoney](https://github-readme-stats.vercel.app/api?username=niksoney&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=niksoney&layout=compact&langs_count=8&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
