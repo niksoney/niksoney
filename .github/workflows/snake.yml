@@ -1,14 +1,15 @@
+<!-- filepath: c:\Users\nikso\bio\.github\workflows\snake.yml -->
 name: Generate Snake Animation
 
 on:
-  # Executa a cada 12 horas
-  schedule:
-    - cron: "0 */12 * * *"
-  # Permite executar manualmente pela aba Actions no GitHub
+// ...existing code...
   workflow_dispatch:
 
 jobs:
   build:
+    # Adiciona permissões de escrita para o job
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -31,3 +32,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
