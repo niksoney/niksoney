@@ -36,21 +36,21 @@ Sou um botânico e desenvolvedor R, focado em aplicar métodos computacionais pa
 
 Ferramentas e tecnologias que utilizo no meu dia a dia de pesquisa e desenvolvimento:
 
-<p align="left">
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> 
+<p align="center">
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   </a>
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   </a>
 </p>
 
@@ -60,11 +60,18 @@ Ferramentas e tecnologias que utilizo no meu dia a dia de pesquisa e desenvolvim
 
 Aqui estão alguns projetos que desenvolvi e em que estou trabalhando:
 
-| Projeto | Descrição | Link |
-| :--- | :--- | :--- |
-| 🌐 **LabEvoFern Website** | Site institucional para o Laboratório de Evolução de Samambaias e Licófitas. | [Acessar](https://labevofern.github.io/sitelab/) |
-| 👤 **Portfólio Pessoal** | Meu site pessoal com informações sobre minha carreira, projetos e tutoriais. | [Acessar](https://niksoney.github.io/bio/index.html#sobre) |
-| 🔬 **Análise FT-NIR** | Repositório com scripts em R para análise de dados de espectroscopia (FT-NIR) em espécies de *Microgramma*. | [Ver no GitHub](https://github.com/niksoney/Nir-Microgramma-FTNIR) |
+<div align="center">
+  <a href="https://github.com/niksoney/Nir-Microgramma-FTNIR" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niksoney&repo=Nir-Microgramma-FTNIR&theme=radical" alt="Repositório Nir-Microgramma-FTNIR">
+  </a>
+  <a href="https://github.com/LabEvoFern/sitelab" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LabEvoFern&repo=sitelab&theme=radical" alt="Repositório LabEvoFern">
+  </a>
+</div>
+
+**Outros projetos:**
+- 🌐 **[Portfólio Pessoal](https://niksoney.github.io/bio/index.html#sobre)**: Meu site com tutoriais e informações sobre minha carreira.
+- 📊 **[Tutoriais de Análise](https://github.com/niksoney/niksoney/tree/main/tutoriaispronto)**: Guias sobre DiaOutline e Análise de Fourier em R.
 
 ---
 
