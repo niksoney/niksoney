@@ -6,6 +6,7 @@
     <a href="https://github.com/niksoney?tab=repositories" target="_blank">
       <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-repositórios-2E8B57?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
+    
     <a href="http://lattes.cnpq.br/3437999134934422" target="_blank">
       <img alt="Lattes" title="Lattes" src="https://img.shields.io/badge/Lattes-000000?style=for-the-badge&logo=ReadMe&logoColor=white"/>
     </a>
