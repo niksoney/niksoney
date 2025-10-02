@@ -60,18 +60,32 @@ Ferramentas e tecnologias que utilizo no meu dia a dia de pesquisa e desenvolvim
 
 Aqui estão alguns projetos que desenvolvi e em que estou trabalhando:
 
-<div align="center">
-  <a href="https://github.com/niksoney/Nir-Microgramma-FTNIR" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niksoney&repo=Nir-Microgramma-FTNIR&theme=radical" alt="Repositório Nir-Microgramma-FTNIR">
-  </a>
-  <a href="https://github.com/LabEvoFern/sitelab" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LabEvoFern&repo=sitelab&theme=radical" alt="Repositório LabEvoFern">
-  </a>
-</div>
-
-**Outros projetos:**
-- 🌐 **[Portfólio Pessoal](https://niksoney.github.io/bio/index.html#sobre)**: Meu site com tutoriais e informações sobre minha carreira.
-- 📊 **[Tutoriais de Análise](https://github.com/niksoney/niksoney/tree/main/tutoriaispronto)**: Guias sobre DiaOutline e Análise de Fourier em R.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Análise FT-NIR em <i>Microgramma</i></h3>
+      <p>Scripts em R para análise de dados de espectroscopia (FT-NIR) para quimiotaxonomia em espécies de <i>Microgramma</i>.</p>
+      <a href="https://github.com/niksoney/Nir-Microgramma-FTNIR" target="_blank">Ver Projeto no GitHub</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Site LabEvoFern</h3>
+      <p>Website institucional desenvolvido para o Laboratório de Evolução de Samambaias e Licófitas (UFOP).</p>
+      <a href="https://labevofern.github.io/sitelab/" target="_blank">Acessar Site</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Portfólio Pessoal</h3>
+      <p>Meu site pessoal, onde apresento minha trajetória, projetos e tutoriais sobre análise de dados em botânica.</p>
+      <a href="https://niksoney.github.io/bio/index.html#sobre" target="_blank">Acessar Site</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Tutoriais de Análise</h3>
+      <p>Guias práticos sobre o uso de ferramentas como DiaOutline e a aplicação de Análise de Fourier em R.</p>
+      <a href="https://github.com/niksoney/niksoney/tree/main/tutoriaispronto" target="_blank">Ver Tutoriais</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -87,4 +101,3 @@ Aqui estão alguns projetos que desenvolvi e em que estou trabalhando:
 <div align="center">
   <img src="https://github.com/niksoney/niksoney/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </div>
-
