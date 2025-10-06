@@ -1,10 +1,10 @@
 <div align="center">
   <h1 align="center">Niksoney A. Mendonça</h1>
-  <h3 align="center">Botânico | Programador R | Entusiasta de Dados</h3>
+  <h3 align="center">Botanist | R Programmer | Data Enthusiast</h3>
   
   <p align="center">
     <a href="https://github.com/niksoney?tab=repositories" target="_blank">
-      <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-repositórios-2E8B57?style=for-the-badge&logo=github&logoColor=white"/>
+      <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-repositories-2E8B57?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
     <a href="http://lattes.cnpq.br/3437999134934422" target="_blank">
       <img alt="Lattes" title="Lattes" src="https://img.shields.io/badge/Lattes-000000?style=for-the-badge&logo=ReadMe&logoColor=white"/>
@@ -20,21 +20,21 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 About Me
 
-Sou um botânico e desenvolvedor R, focado em aplicar métodos computacionais para resolver questões em evolução e sistemática de plantas. Minha pesquisa utiliza morfometria geométrica e outras abordagens multi-ferramentas para estudar a diversidade de samambaias e licófitas.
+I am a botanist and R developer, focused on applying computational methods to solve questions in plant evolution and systematics. My research uses multi-tools to study the diversity and evolution of ferns and lycophytes.
 
-**Áreas de Interesse:**
-- `[Evolução e Sistemática de Samambaias e Licófitas]`
-- `[Análise de Dados Morfométricos e Moleculares]`
-- `[Desenvolvimento de pipelines em R para Biologia]`
-- `[Visualização de Dados Científicos]`
+**Areas of Interest:**
+- `[Evolution and Systematics of Ferns and Lycophytes]`
+- `[Analysis of Morphometric and Molecular Data]`
+- `[Development of R pipelines for Biology]`
+- `[Scientific Data Visualization]`
 
 ---
 
 ### 🛠️ Tech Stack
 
-Ferramentas e tecnologias que utilizo no meu dia a dia de pesquisa e desenvolvimento:
+Tools and technologies I use in my daily research and development:
 
 <p align="center">
   <a href="https://www.r-project.org/" target="_blank">
@@ -49,51 +49,48 @@ Ferramentas e tecnologias que utilizo no meu dia a dia de pesquisa e desenvolvim
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  </a>
 </p>
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Featured Projects
 
-Aqui estão alguns projetos que desenvolvi e em que estou trabalhando:
+Here are some projects I have developed and am currently working on:
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Análise FT-NIR em <i>Microgramma</i></h3>
-      <p>Scripts em R para análise de dados de espectroscopia (FT-NIR) para quimiotaxonomia em espécies de <i>Microgramma</i>.</p>
-      <a href="https://github.com/niksoney/Nir-Microgramma-FTNIR" target="_blank">Ver Projeto no GitHub</a>
+      <h3>FT-NIR Analysis in <i>Microgramma</i></h3>
+      <p>R scripts for analyzing spectroscopy data (FT-NIR) for chemotaxonomy in <i>Microgramma</i> species.</p>
+      <a href="https://github.com/niksoney/Nir-Microgramma-FTNIR" target="_blank">View Project on GitHub</a>
     </td>
     <td width="50%" valign="top">
-      <h3>Site LabEvoFern</h3>
-      <p>Website institucional desenvolvido para o Laboratório de Evolução de Samambaias e Licófitas (UFOP).</p>
-      <a href="https://labevofern.github.io/sitelab/" target="_blank">Acessar Site</a>
+      <h3>LabEvoFern Website</h3>
+      <p>Institutional website developed for the Fern and Lycophyte Evolution Laboratory (UFOP).</p>
+      <a href="https://labevofern.github.io/sitelab/" target="_blank">Access Website</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Portfólio Pessoal</h3>
-      <p>Meu site pessoal, onde apresento minha trajetória, projetos e tutoriais sobre análise de dados em botânica.</p>
-      <a href="https://niksoney.github.io/bio/index.html#sobre" target="_blank">Acessar Site</a>
+      <h3>Personal Portfolio</h3>
+      <p>Here I present my career path and the projects I am involved in.</p>
+      <a href="https://niksoney.github.io/bio/curriculo.html" target="_blank">Access Website</a>
     </td>
     <td width="50%" valign="top">
-      <h3>Tutoriais de Análise</h3>
-      <p>Guias práticos sobre o uso de ferramentas como DiaOutline e a aplicação de Análise de Fourier em R.</p>
-      <a href="https://github.com/niksoney/niksoney/tree/main/tutoriaispronto" target="_blank">Ver Tutoriais</a>
+      <h3>Analysis Tutorials</h3>
+      <p>Practical guides on using tools like DiaOutline and applying Fourier Analysis in R.</p>
+      <a href="https://github.com/niksoney/niksoney/tree/main/tutoriaispronto" target="_blank">View Tutorials</a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📈 GitHub Stats
 
 <div align="center">
 
-[![Estatísticas do GitHub de Niksoney](https://github-readme-stats.vercel.app/api?username=niksoney&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=niksoney&layout=compact&langs_count=8&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Niksoney's GitHub Stats](https://github-readme-stats.vercel.app/api?username=niksoney&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niksoney&layout=compact&langs_count=8&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
