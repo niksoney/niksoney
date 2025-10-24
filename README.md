@@ -62,7 +62,7 @@ Here are some projects I have developed and am currently working on:
     <td width="50%" valign="top">
       <h3>FT-NIR Analysis in <i>Microgramma</i></h3>
       <p>R scripts for analyzing spectroscopy data (FT-NIR) for chemotaxonomy in <i>Microgramma</i> species.</p>
-      <a href="https://github.com/niksoney/Nir-Microgramma-FTNIR" target="_blank">View Project on GitHub</a>
+      <a href="https://github.com/niksoney/Microgramma-FTNIR" target="_blank">View Project on GitHub</a>
     </td>
     <td width="50%" valign="top">
       <h3>LabEvoFern Website</h3>
@@ -77,9 +77,9 @@ Here are some projects I have developed and am currently working on:
       <a href="https://niksoney.github.io/bio/curriculo.html" target="_blank">Access Website</a>
     </td>
     <td width="50%" valign="top">
-      <h3>Analysis Tutorials</h3>
-      <p>Practical guides on using tools like DiaOutline and applying Fourier Analysis in R.</p>
-      <a href="https://github.com/niksoney/niksoney/tree/main/tutoriaispronto" target="_blank">View Tutorials</a>
+     <h3>Outline and Integrative Analysis in <i>Microgramma</i></h3>
+<p>This project explores the use of outline-based morphometrics and spectral data integration to investigate evolutionary patterns in <i>Microgramma</i> species. It combines shape descriptors, Fourier analysis, and phylogenetic frameworks to assess morphological variation and evolutionary signals.</p>
+      <a href="https://github.com/niksoney/Microgramma-Outline" target="_blank">View Tutorials</a>
     </td>
   </tr>
 </table>
