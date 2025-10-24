@@ -60,8 +60,8 @@ Here are some projects I have developed and am currently working on:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>FT-NIR Analysis in <i>Microgramma</i></h3>
-      <p>R scripts for analyzing spectroscopy data (FT-NIR) for chemotaxonomy in <i>Microgramma</i> species.</p>
+     <h3>FT-NIR Analysis in <i>Microgramma</i></h3>
+<p>R scripts for analyzing FT-NIR spectral signatures in <i>Microgramma</i> species, with a focus on integrating spectral data into evolutionary and morphological studies.</p>
       <a href="https://github.com/niksoney/Microgramma-FTNIR" target="_blank">View Project on GitHub</a>
     </td>
     <td width="50%" valign="top">
@@ -78,7 +78,7 @@ Here are some projects I have developed and am currently working on:
     </td>
     <td width="50%" valign="top">
      <h3>Outline and Integrative Analysis in <i>Microgramma</i></h3>
-<p>This project explores the use of outline-based morphometrics and spectral data integration to investigate evolutionary patterns in <i>Microgramma</i> species. It combines shape descriptors, Fourier analysis, and phylogenetic frameworks to assess morphological variation and evolutionary signals.</p>
+<p>This study investigates evolutionary patterns in <i>Microgramma</i> species by integrating outline-based morphometrics, FT-NIR spectral signatures, and phylogenetic frameworks. The approach combines shape descriptors, Fourier analysis, and spectral data to explore morphological variation and evolutionary trajectories.</p>
       <a href="https://github.com/niksoney/Microgramma-Outline" target="_blank">View Tutorials</a>
     </td>
   </tr>
