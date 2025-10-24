@@ -40,8 +40,6 @@ My research focuses on understanding **plant evolution and systematics**, especi
   <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio">
-  <img src="https://img.shields.io/badge/Quarto-3D77BB?style=for-the-badge&logo=quarto&logoColor=white" alt="Quarto">
 </p>
 
 ---
