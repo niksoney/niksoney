@@ -27,7 +27,7 @@ My research focuses on understanding **plant evolution and systematics**, especi
 
 🔍 **Research Interests:**
 - 🌿 Evolution and Systematics of Ferns and Lycophytes  
-- 🧬 Integrative Morphometric and Molecular Data Analysis (multitool approach combining morphometry, phylogeny, modeling, FT-NIR spectroscopy, and other analytical frameworks)  
+- 🧬 Multi-tool approach combining morphometry, phylogeny, modeling, FT-NIR spectroscopy and other analytical frameworks
 - 🧰 Development of R Pipelines and Tools for Biological Data  
 - 📊 Scientific Data Visualization and Computational Phylogenetics
 
