@@ -61,7 +61,7 @@ Here are some projects I have developed and am currently working on:
   <tr>
     <td width="50%" valign="top">
      <h3>FT-NIR Analysis in <i>Microgramma</i></h3>
-<p>R scripts for analyzing FT-NIR spectral signatures in <i>Microgramma</i> species, with a focus on integrating spectral data into evolutionary and morphological studies.</p>
+<p>R scripts for analyzing FT-NIR spectral signatures in <i>Microgramma</i> species, focusing on the interpretation of spectral variation across samples.</p>
       <a href="https://github.com/niksoney/Microgramma-FTNIR" target="_blank">View Project on GitHub</a>
     </td>
     <td width="50%" valign="top">
