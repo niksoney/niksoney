@@ -26,10 +26,10 @@ I’m a **botanist and R developer** passionate about integrating computational 
 My research focuses on understanding **plant evolution and systematics**, especially in **ferns and lycophytes**.
 
 🔍 **Research Interests:**
-- 🌱 Evolution and Systematics of Ferns and Lycophytes  
-- 🧫 Morphometric and Molecular Data Analysis  
-- 🧰 R Pipelines for Biological Research  
-- 📊 Scientific Data Visualization
+- 🌿 Evolution and Systematics of Ferns and Lycophytes  
+- 🧬 Integrative Morphometric and Molecular Data Analysis (multitool approach combining morphometry, phylogeny, modeling, FT-NIR spectroscopy, and other analytical frameworks)  
+- 🧰 Development of R Pipelines and Tools for Biological Data  
+- 📊 Scientific Data Visualization and Computational Phylogenetics
 
 ---
 
@@ -94,7 +94,7 @@ My research focuses on understanding **plant evolution and systematics**, especi
 **Botany · Data Science · R Development · Evolutionary Biology**
 
 📫 **Reach me at:**  
-[![Email](https://img.shields.io/badge/-Send%20an%20Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:niksoney@gmail.com)
+[![Email](https://img.shields.io/badge/-Send%20an%20Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:niksoneyazevedo2017@gmail.com)
 
 ---
 
