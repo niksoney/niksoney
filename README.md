@@ -20,23 +20,29 @@
 </div>
 
 ---
-
 ### 🧬 About Me
 
-I’m a **botanist and R developer** passionate about integrating computational tools with evolutionary biology.  
-My research focuses on understanding **plant evolution and systematics**, especially in **ferns and lycophytes**.
+I’m a **botanist and R developer** passionate about integrating computational and analytical approaches into evolutionary biology.  
+My research focuses on uncovering the **diversity, evolution, and systematics of ferns and lycophytes**, combining traditional taxonomy with modern data-driven methods.
+
+---
+
+<div align="left">
 
 🔍 **Research Interests:**
 - 🌿 Evolution and Systematics of Ferns and Lycophytes  
-- 🧬 Multi-tool approach combining morphometry, phylogeny, modeling, FT-NIR spectroscopy and other analytical frameworks  
-- 🧰 Development of R Pipelines and Tools for Biological Data  
-- 📊 Scientific Data Visualization and Computational Phylogenetics
+- 🧬 Multi-tool analytical approach integrating morphometry, phylogeny, modeling, FT-NIR spectroscopy, and other computational frameworks  
+- 🧰 Development of Reproducible R Pipelines and Tools for Biological Data  
+- 📊 Scientific Data Visualization and Computational Phylogenetics  
+
+</div>
+
 
 ---
 
 ### ⚙️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
